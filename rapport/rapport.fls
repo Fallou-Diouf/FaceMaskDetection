@@ -140,6 +140,11 @@ INPUT ./logopariscité.png
 INPUT ./logopariscité.png
 INPUT ./logopariscité.png
 INPUT ./logopariscité.png
+INPUT ./module.png
+INPUT ./module.png
+INPUT ./module.png
+INPUT ./module.png
+INPUT ./module.png
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecbx2074.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
