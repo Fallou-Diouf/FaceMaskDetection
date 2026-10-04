@@ -1,5 +1,25 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+# Face Mask Detection project
+Data/
+data/
+
+# Trained models
+outputs/models/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/__pycache__/
 *.py[codz]
 *$py.class
 
